@@ -1,2 +1,3 @@
 branch test file
 issue1's text edit
+issue3's edit
