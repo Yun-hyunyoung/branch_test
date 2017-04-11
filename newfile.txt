@@ -1,1 +1,2 @@
 branch test file
+issue1's text edit
